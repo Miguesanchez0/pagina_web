@@ -1,0 +1,2589 @@
+.mediaViewInfo {
+	--web-view-name: servicios;
+	--web-view-id: servicios;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: servicios;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#servicios {
+	position: absolute;
+	width: 1920px;
+	height: 1080px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: servicios;
+	--web-view-id: servicios;
+	--web-scale-to-fit: true;
+	--web-scale-to-fit-type: width;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Trazado_30 {
+	fill: rgba(121,197,230,1);
+}
+.Trazado_30 {
+	overflow: visible;
+	position: absolute;
+	width: 157.228px;
+	height: 56.767px;
+	left: 1476.676px;
+	top: 97.508px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#INICIO_eb {
+	left: 1066.276px;
+	top: 114.933px;
+	position: absolute;
+	overflow: visible;
+	width: 80px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: MyriadPro-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#QUIENES_SOMOS_ec {
+	left: 1214.038px;
+	top: 114.933px;
+	position: absolute;
+	overflow: visible;
+	width: 214px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: quienes_somos.html;
+	cursor: pointer;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: MyriadPro-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 30px;
+	color: rgba(0,0,0,1);
+}
+#SERVICIOS_ed {
+	left: 1488.03px;
+	top: 114.933px;
+	position: absolute;
+	overflow: visible;
+	width: 143px;
+	white-space: nowrap;
+	line-height: 36px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(227,190,50,1);
+}
+#CONTACTOS_ee {
+	left: 1658.158px;
+	top: 114.933px;
+	position: absolute;
+	overflow: visible;
+	width: 151px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: contactos.html;
+	cursor: pointer;
+	line-height: 35px;
+	margin-top: -3px;
+	text-align: left;
+	font-family: MyriadPro-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 29px;
+	color: rgba(0,0,0,1);
+}
+#Grupo_14_ef {
+	position: absolute;
+	width: 138.809px;
+	height: 104.62px;
+	left: 37.338px;
+	top: 55.377px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Grupo_1_eg {
+	position: absolute;
+	width: 138.809px;
+	height: 84.839px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_3_eh {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_3_eh {
+	overflow: visible;
+	position: absolute;
+	width: 138.808px;
+	height: 84.839px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_4_ei {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_4_ei {
+	overflow: visible;
+	position: absolute;
+	width: 14.107px;
+	height: 16.952px;
+	left: 77.049px;
+	top: 11.836px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_3_ej {
+	fill: rgba(227,190,50,1);
+}
+.Rectngulo_3_ej {
+	position: absolute;
+	overflow: visible;
+	width: 136.87px;
+	height: 1.308px;
+	left: 1.606px;
+	top: 89.85px;
+}
+#Grupo_10_ek {
+	position: absolute;
+	width: 117.662px;
+	height: 7.63px;
+	left: 10.427px;
+	top: 96.99px;
+	overflow: visible;
+}
+#Trazado_19_el {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_19_el {
+	overflow: visible;
+	position: absolute;
+	width: 6.44px;
+	height: 7.63px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_20_em {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_20_em {
+	overflow: visible;
+	position: absolute;
+	width: 6.143px;
+	height: 7.372px;
+	left: 15.191px;
+	top: 0.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_21_en {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_21_en {
+	overflow: visible;
+	position: absolute;
+	width: 5.496px;
+	height: 7.372px;
+	left: 30.028px;
+	top: 0.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_22_eo {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_22_eo {
+	overflow: visible;
+	position: absolute;
+	width: 6.891px;
+	height: 7.372px;
+	left: 43.446px;
+	top: 0.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_23_ep {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_23_ep {
+	overflow: visible;
+	position: absolute;
+	width: 5.851px;
+	height: 7.372px;
+	left: 57.932px;
+	top: 0.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_24_eq {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_24_eq {
+	overflow: visible;
+	position: absolute;
+	width: 0.992px;
+	height: 7.372px;
+	left: 72.335px;
+	top: 0.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_25_er {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_25_er {
+	overflow: visible;
+	position: absolute;
+	width: 6.744px;
+	height: 7.372px;
+	left: 81.706px;
+	top: 0.131px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_26_es {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_26_es {
+	overflow: visible;
+	position: absolute;
+	width: 7.065px;
+	height: 7.63px;
+	left: 96.382px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_27_et {
+	fill: rgba(227,190,50,1);
+}
+.Trazado_27_et {
+	overflow: visible;
+	position: absolute;
+	width: 5.88px;
+	height: 7.63px;
+	left: 111.782px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_6 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_6 {
+	position: absolute;
+	overflow: visible;
+	width: 293.175px;
+	height: 804.086px;
+	left: 1573.577px;
+	top: 207px;
+}
+#F_O_T_O_G_R_A_F__A_ {
+	left: 1630.266px;
+	top: 790.424px;
+	position: absolute;
+	overflow: visible;
+	width: 149px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#Grupo_18 {
+	position: absolute;
+	width: 19.819px;
+	height: 19.818px;
+	left: 1596.801px;
+	top: 794.845px;
+	overflow: visible;
+}
+#Trazado_65 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_65 {
+	overflow: visible;
+	position: absolute;
+	width: 19.819px;
+	height: 19.819px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_66 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_66 {
+	overflow: visible;
+	position: absolute;
+	width: 11.833px;
+	height: 11.834px;
+	left: 3.907px;
+	top: 4.07px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#D_I_S_E__O___G_R__F_I_C_O_ {
+	left: 1630.266px;
+	top: 672.959px;
+	position: absolute;
+	overflow: visible;
+	width: 203px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#Grupo_19 {
+	position: absolute;
+	width: 23.181px;
+	height: 23.207px;
+	left: 1595.12px;
+	top: 676.711px;
+	overflow: visible;
+}
+#Trazado_67 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_67 {
+	overflow: visible;
+	position: absolute;
+	width: 8.249px;
+	height: 8.268px;
+	left: 0px;
+	top: 14.94px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_68 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_68 {
+	overflow: visible;
+	position: absolute;
+	width: 17.504px;
+	height: 17.532px;
+	left: 5.677px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#A_N_I_M_A_C_I__N___3_D___A_R_Q {
+	left: 1630.266px;
+	top: 840.705px;
+	position: absolute;
+	overflow: visible;
+	width: 199px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.47px;
+}
+#Grupo_20 {
+	position: absolute;
+	width: 17.58px;
+	height: 19.533px;
+	left: 1597.92px;
+	top: 855.736px;
+	overflow: visible;
+}
+#Trazado_69 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_69 {
+	overflow: visible;
+	position: absolute;
+	width: 17.205px;
+	height: 4.372px;
+	left: 0px;
+	top: 10.928px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_70 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_70 {
+	overflow: visible;
+	position: absolute;
+	width: 0.651px;
+	height: 8.79px;
+	left: 8.465px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_71 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_71 {
+	overflow: visible;
+	position: absolute;
+	width: 9.115px;
+	height: 15.302px;
+	left: 0px;
+	top: 4.231px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_72 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_72 {
+	overflow: visible;
+	position: absolute;
+	width: 9.115px;
+	height: 15.302px;
+	left: 8.465px;
+	top: 4.231px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_73 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_73 {
+	overflow: visible;
+	position: absolute;
+	width: 17.58px;
+	height: 8.79px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#I_M_P_R_E_S_I_O_N_E_S_ {
+	left: 1630.266px;
+	top: 544.427px;
+	position: absolute;
+	overflow: visible;
+	width: 166px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#Trazado_74 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_74 {
+	overflow: visible;
+	position: absolute;
+	width: 24.205px;
+	height: 16.116px;
+	left: 1594.607px;
+	top: 550.855px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_22 {
+	position: absolute;
+	width: 159px;
+	height: 46px;
+	left: 1646.473px;
+	top: 290.109px;
+	overflow: visible;
+}
+#Grupo_21 {
+	position: absolute;
+	width: 159px;
+	height: 46px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#nuestros {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 160px;
+	white-space: nowrap;
+	line-height: 46px;
+	margin-top: -4px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 38px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#servicios_ff {
+	left: 1645.842px;
+	top: 325.805px;
+	position: absolute;
+	overflow: visible;
+	width: 169px;
+	white-space: nowrap;
+	line-height: 59px;
+	margin-top: -4.5px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 50px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Grupo_45 {
+	position: absolute;
+	width: 44.254px;
+	height: 55.93px;
+	left: 1591.607px;
+	top: 306.5px;
+	overflow: visible;
+}
+#Grupo_24 {
+	position: absolute;
+	width: 24.691px;
+	height: 24.691px;
+	left: 9.782px;
+	top: 9.782px;
+	overflow: visible;
+}
+#Grupo_23 {
+	position: absolute;
+	width: 24.691px;
+	height: 24.691px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_75 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_75 {
+	overflow: visible;
+	position: absolute;
+	width: 24.691px;
+	height: 24.691px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_26 {
+	position: absolute;
+	width: 9.162px;
+	height: 9.162px;
+	left: 17.546px;
+	top: 17.546px;
+	overflow: visible;
+}
+#Grupo_25 {
+	position: absolute;
+	width: 9.162px;
+	height: 9.162px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_76 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_76 {
+	overflow: visible;
+	position: absolute;
+	width: 9.162px;
+	height: 9.162px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_28 {
+	position: absolute;
+	width: 4.393px;
+	height: 2.634px;
+	left: 0px;
+	top: 13.957px;
+	overflow: visible;
+}
+#Grupo_27 {
+	position: absolute;
+	width: 4.393px;
+	height: 2.634px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_77 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_77 {
+	overflow: visible;
+	position: absolute;
+	width: 4.393px;
+	height: 2.634px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_30 {
+	position: absolute;
+	width: 4.393px;
+	height: 2.633px;
+	left: 39.861px;
+	top: 27.665px;
+	overflow: visible;
+}
+#Grupo_29 {
+	position: absolute;
+	width: 4.393px;
+	height: 2.633px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_78 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_78 {
+	overflow: visible;
+	position: absolute;
+	width: 4.393px;
+	height: 2.633px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_32 {
+	position: absolute;
+	width: 4.26px;
+	height: 2.955px;
+	left: 1.058px;
+	top: 29.897px;
+	overflow: visible;
+}
+#Grupo_31 {
+	position: absolute;
+	width: 4.26px;
+	height: 2.955px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_79 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_79 {
+	overflow: visible;
+	position: absolute;
+	width: 4.26px;
+	height: 2.955px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_34 {
+	position: absolute;
+	width: 4.26px;
+	height: 2.955px;
+	left: 38.937px;
+	top: 11.403px;
+	overflow: visible;
+}
+#Grupo_33 {
+	position: absolute;
+	width: 4.26px;
+	height: 2.955px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_80 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_80 {
+	overflow: visible;
+	position: absolute;
+	width: 4.26px;
+	height: 2.955px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_36 {
+	position: absolute;
+	width: 2.633px;
+	height: 4.393px;
+	left: 27.665px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_35 {
+	position: absolute;
+	width: 2.633px;
+	height: 4.393px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_81 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_81 {
+	overflow: visible;
+	position: absolute;
+	width: 2.633px;
+	height: 4.393px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_38 {
+	position: absolute;
+	width: 2.955px;
+	height: 4.259px;
+	left: 29.896px;
+	top: 38.937px;
+	overflow: visible;
+}
+#Grupo_37 {
+	position: absolute;
+	width: 2.955px;
+	height: 4.259px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_82 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_82 {
+	overflow: visible;
+	position: absolute;
+	width: 2.956px;
+	height: 4.259px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_40 {
+	position: absolute;
+	width: 2.955px;
+	height: 4.26px;
+	left: 11.403px;
+	top: 1.058px;
+	overflow: visible;
+}
+#Grupo_39 {
+	position: absolute;
+	width: 2.955px;
+	height: 4.26px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_83 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_83 {
+	overflow: visible;
+	position: absolute;
+	width: 2.955px;
+	height: 4.26px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_42 {
+	position: absolute;
+	width: 10.881px;
+	height: 19.837px;
+	left: 28.451px;
+	top: 6.53px;
+	overflow: visible;
+}
+#Grupo_41 {
+	position: absolute;
+	width: 10.881px;
+	height: 19.837px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_84 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_84 {
+	overflow: visible;
+	position: absolute;
+	width: 10.881px;
+	height: 19.837px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_44 {
+	position: absolute;
+	width: 33.246px;
+	height: 51.045px;
+	left: 4.399px;
+	top: 4.885px;
+	overflow: visible;
+}
+#Grupo_43 {
+	position: absolute;
+	width: 33.246px;
+	height: 51.045px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_85 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_85 {
+	overflow: visible;
+	position: absolute;
+	width: 33.246px;
+	height: 51.045px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#R_E_D_E_S___S_O_C_I_A_L_E_S {
+	left: 1630.266px;
+	top: 726.522px;
+	position: absolute;
+	overflow: visible;
+	width: 200px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#Grupo_68 {
+	position: absolute;
+	width: 27.65px;
+	height: 28.565px;
+	left: 1592.885px;
+	top: 727.759px;
+	overflow: visible;
+}
+#Grupo_47 {
+	position: absolute;
+	width: 4.968px;
+	height: 1.116px;
+	left: 6.263px;
+	top: 1.785px;
+	overflow: visible;
+}
+#Grupo_46 {
+	position: absolute;
+	width: 4.968px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_87 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_87 {
+	overflow: visible;
+	position: absolute;
+	width: 4.968px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_49 {
+	position: absolute;
+	width: 1.08px;
+	height: 1.116px;
+	left: 8.207px;
+	top: 25.316px;
+	overflow: visible;
+}
+#Grupo_48 {
+	position: absolute;
+	width: 1.08px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_88 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_88 {
+	overflow: visible;
+	position: absolute;
+	width: 1.08px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_51 {
+	position: absolute;
+	width: 24.247px;
+	height: 28.565px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Grupo_50 {
+	position: absolute;
+	width: 24.247px;
+	height: 28.565px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_89 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_89 {
+	overflow: visible;
+	position: absolute;
+	width: 24.247px;
+	height: 28.565px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_53 {
+	position: absolute;
+	width: 3.727px;
+	height: 2.695px;
+	left: 23.923px;
+	top: 7.874px;
+	overflow: visible;
+}
+#Grupo_52 {
+	position: absolute;
+	width: 3.727px;
+	height: 2.695px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_90 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_90 {
+	overflow: visible;
+	position: absolute;
+	width: 3.727px;
+	height: 2.696px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_55 {
+	position: absolute;
+	width: 1.467px;
+	height: 2.604px;
+	left: 21.625px;
+	top: 5.684px;
+	overflow: visible;
+}
+#Grupo_54 {
+	position: absolute;
+	width: 1.467px;
+	height: 2.604px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_91 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_91 {
+	overflow: visible;
+	position: absolute;
+	width: 1.467px;
+	height: 2.604px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_57 {
+	position: absolute;
+	width: 2.568px;
+	height: 1.528px;
+	left: 24.646px;
+	top: 12.57px;
+	overflow: visible;
+}
+#Grupo_56 {
+	position: absolute;
+	width: 2.568px;
+	height: 1.528px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_92 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_92 {
+	overflow: visible;
+	position: absolute;
+	width: 2.568px;
+	height: 1.528px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_59 {
+	position: absolute;
+	width: 8.531px;
+	height: 1.116px;
+	left: 2.25px;
+	top: 6.314px;
+	overflow: visible;
+}
+#Grupo_58 {
+	position: absolute;
+	width: 8.531px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_93 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_93 {
+	overflow: visible;
+	position: absolute;
+	width: 8.531px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_61 {
+	position: absolute;
+	width: 1.08px;
+	height: 1.116px;
+	left: 9.701px;
+	top: 8.992px;
+	overflow: visible;
+}
+#Grupo_60 {
+	position: absolute;
+	width: 1.08px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_94 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_94 {
+	overflow: visible;
+	position: absolute;
+	width: 1.08px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_63 {
+	position: absolute;
+	width: 6.299px;
+	height: 1.116px;
+	left: 2.25px;
+	top: 8.992px;
+	overflow: visible;
+}
+#Grupo_62 {
+	position: absolute;
+	width: 6.299px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_95 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_95 {
+	overflow: visible;
+	position: absolute;
+	width: 6.299px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_65 {
+	position: absolute;
+	width: 5.174px;
+	height: 1.116px;
+	left: 4.325px;
+	top: 11.67px;
+	overflow: visible;
+}
+#Grupo_64 {
+	position: absolute;
+	width: 5.174px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_96 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_96 {
+	overflow: visible;
+	position: absolute;
+	width: 5.174px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_67 {
+	position: absolute;
+	width: 1.104px;
+	height: 1.116px;
+	left: 2.247px;
+	top: 11.67px;
+	overflow: visible;
+}
+#Grupo_66 {
+	position: absolute;
+	width: 1.104px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_97 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_97 {
+	overflow: visible;
+	position: absolute;
+	width: 1.104px;
+	height: 1.116px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#P_A_P_E_L_E_R__A_C_O_R_P_O_R_A {
+	left: 1630.266px;
+	top: 466.327px;
+	position: absolute;
+	overflow: visible;
+	width: 164px;
+	white-space: nowrap;
+	line-height: 22px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#Trazado_98 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_98 {
+	overflow: visible;
+	position: absolute;
+	width: 23.111px;
+	height: 29.153px;
+	left: 1595.154px;
+	top: 475.809px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#A_V_I_S_O_S_ {
+	left: 1630.266px;
+	top: 593.905px;
+	position: absolute;
+	overflow: visible;
+	width: 90px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#S_E__A_L_I_Z_A_C_I__N {
+	left: 1630.266px;
+	top: 618.757px;
+	position: absolute;
+	overflow: visible;
+	width: 171px;
+	white-space: nowrap;
+	line-height: 26px;
+	margin-top: -2.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 21px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.35px;
+}
+#Grupo_69 {
+	position: absolute;
+	width: 27.511px;
+	height: 27.511px;
+	left: 1592.955px;
+	top: 606.059px;
+	overflow: visible;
+}
+#Trazado_99 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_99 {
+	overflow: visible;
+	position: absolute;
+	width: 27.511px;
+	height: 27.511px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_100 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_100 {
+	overflow: visible;
+	position: absolute;
+	width: 4.586px;
+	height: 9.172px;
+	left: 3.439px;
+	top: 9.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_101 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_101 {
+	overflow: visible;
+	position: absolute;
+	width: 5.732px;
+	height: 1.148px;
+	left: 8.024px;
+	top: 9.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_102 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_102 {
+	overflow: visible;
+	position: absolute;
+	width: 1.148px;
+	height: 9.172px;
+	left: 10.316px;
+	top: 9.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_103 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_103 {
+	overflow: visible;
+	position: absolute;
+	width: 4.584px;
+	height: 9.172px;
+	left: 13.756px;
+	top: 9.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_104 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_104 {
+	overflow: visible;
+	position: absolute;
+	width: 4.584px;
+	height: 9.172px;
+	left: 19.488px;
+	top: 9.17px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Somos_una_marca_que_hace_marca {
+	mix-blend-mode: multiply;
+	left: 1599.32px;
+	top: 946.494px;
+	position: absolute;
+	overflow: visible;
+	width: 228px;
+	white-space: nowrap;
+	line-height: 19px;
+	margin-top: -1.5px;
+	text-align: left;
+	font-family: HelveticaLTStd-Cond;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+	letter-spacing: -0.23px;
+}
+#Grupo_84 {
+	position: absolute;
+	width: 270.367px;
+	height: 337.692px;
+	left: 59px;
+	top: 231px;
+	overflow: visible;
+}
+#Grupo_83 {
+	position: absolute;
+	width: 270.367px;
+	height: 337.692px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_13 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_13 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 103.683px;
+	top: 442.188px;
+}
+#Trazado_116 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_116 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 298.538px;
+	top: 459.483px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Libros__Afiches_Carnet_Revista {
+	left: 120.789px;
+	top: 501.705px;
+	position: absolute;
+	overflow: hidden;
+	width: 51.333px;
+	height: 76.66666412353516px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#papelera_corporativas {
+	left: 121.455px;
+	top: 457.147px;
+	position: absolute;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Impresin_Litograficas {
+	left: 109.623px;
+	top: 480.21px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Brochure_Flyer__volantes_Hojas {
+	left: 183.123px;
+	top: 502.705px;
+	position: absolute;
+	overflow: hidden;
+	width: 120px;
+	height: 90.33333587646484px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Elipse_1 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_1 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 113.789px;
+	top: 510.178px;
+}
+#Elipse_2 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_2 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 113.789px;
+	top: 521.928px;
+}
+#Elipse_3 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_3 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 113.789px;
+	top: 535.428px;
+}
+#Elipse_4 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_4 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 113.789px;
+	top: 547.928px;
+}
+#Elipse_5 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_5 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 113.789px;
+	top: 560.178px;
+}
+#Elipse_6 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_6 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 175.455px;
+	top: 510.178px;
+}
+#Elipse_7 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_7 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 175.455px;
+	top: 521.928px;
+}
+#Elipse_8 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_8 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 175.455px;
+	top: 535.428px;
+}
+#Elipse_9 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_9 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 175.455px;
+	top: 547.928px;
+}
+#Elipse_10 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_10 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 175.455px;
+	top: 560.178px;
+}
+#plotterpsd {
+	position: absolute;
+	width: 354.795px;
+	height: 308.02px;
+	left: 387.667px;
+	top: 283px;
+	overflow: visible;
+}
+#plotter {
+	position: absolute;
+	width: 354.795px;
+	height: 308.02px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_14 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_14 {
+	width: 202px;
+	height: 137.042px;
+	position: absolute;
+	overflow: visible;
+	transform: matrix(1,0,0,1,365.77,451.135) rotate(180deg);
+	transform-origin: center;
+}
+#Trazado_117 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_117 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 360px;
+	top: 468.43px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lona_Avisos_Pasacalles_Pendone {
+	left: 385.106px;
+	top: 516.177px;
+	position: absolute;
+	overflow: hidden;
+	width: 59.167px;
+	height: 77px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Gran_formato {
+	left: 443.606px;
+	top: 463.895px;
+	position: absolute;
+	overflow: visible;
+	width: 94px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Impresin_de_gran_formato_con_r {
+	left: 370.273px;
+	top: 485.895px;
+	position: absolute;
+	overflow: visible;
+	width: 176px;
+	white-space: nowrap;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: right;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Vinilos__Vinilos_Decorativos__ {
+	left: 460.939px;
+	top: 516.177px;
+	position: absolute;
+	overflow: hidden;
+	width: 101px;
+	height: 77px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed-Bold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Elipse_11 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_11 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 378.689px;
+	top: 536.696px;
+}
+#Elipse_12 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_12 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 378.689px;
+	top: 550.196px;
+}
+#Elipse_13 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_13 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 378.689px;
+	top: 562.696px;
+}
+#Elipse_14 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_14 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 378.689px;
+	top: 574.946px;
+}
+#Elipse_15 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_15 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 454.189px;
+	top: 536.696px;
+}
+#Elipse_16 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_16 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 454.189px;
+	top: 550.196px;
+}
+#Elipse_17 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_17 {
+	position: absolute;
+	overflow: visible;
+	width: 3.833px;
+	height: 3.833px;
+	left: 454.189px;
+	top: 562.696px;
+}
+#dobladorapsd {
+	position: absolute;
+	width: 271.137px;
+	height: 180.545px;
+	left: 773.199px;
+	top: 276px;
+	overflow: visible;
+}
+#dobladora {
+	position: absolute;
+	width: 271.137px;
+	height: 180.545px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_15 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_15 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 772px;
+	top: 455.8px;
+}
+#Es_un_aviso_muy_llamativo_para {
+	left: 779.723px;
+	top: 496.495px;
+	position: absolute;
+	overflow: hidden;
+	width: 189px;
+	height: 92px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Trazado_118 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_118 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 966.854px;
+	top: 473.095px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avisos_Volumtricos {
+	left: 789.772px;
+	top: 470.759px;
+	position: absolute;
+	overflow: visible;
+	width: 142px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Rectngulo_16 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_16 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 1285.736px;
+	top: 447.531px;
+}
+#Es_un_tipo_de_aviso_convencion {
+	left: 1293.459px;
+	top: 488.226px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 92px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Trazado_119 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_119 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 1278.923px;
+	top: 464.825px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Avisos_en_Caja_de_Luz_ {
+	left: 1325.841px;
+	top: 462.49px;
+	position: absolute;
+	overflow: visible;
+	width: 153px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#aviso2psd {
+	position: absolute;
+	width: 388.069px;
+	height: 290.886px;
+	left: 1075px;
+	top: 243px;
+	overflow: visible;
+}
+#aviso2 {
+	position: absolute;
+	width: 388.069px;
+	height: 290.886px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_17 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_17 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 59px;
+	top: 877.722px;
+}
+#Las_seales_internas_son_esenci {
+	left: 66.723px;
+	top: 918.418px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 105px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Trazado_120 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_120 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 253.854px;
+	top: 895.017px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#seales_internas {
+	left: 76.772px;
+	top: 892.681px;
+	position: absolute;
+	overflow: visible;
+	width: 118px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Grupo_93 {
+	position: absolute;
+	width: 122.19px;
+	height: 160.715px;
+	left: 216.259px;
+	top: 682px;
+	overflow: visible;
+}
+#Grupo_92 {
+	position: absolute;
+	width: 122.19px;
+	height: 160.715px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Trazado_121 {
+	opacity: 0.2;
+	fill: rgba(75,75,75,1);
+}
+.Trazado_121 {
+	overflow: visible;
+	position: absolute;
+	width: 116.19px;
+	height: 153.715px;
+	left: 0px;
+	top: 7px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_18 {
+	fill: rgba(159,176,184,1);
+}
+.Rectngulo_18 {
+	position: absolute;
+	overflow: visible;
+	width: 116.19px;
+	height: 74.246px;
+	left: 6px;
+	top: 80.47px;
+}
+#Rectngulo_19 {
+	fill: rgba(0,0,0,1);
+}
+.Rectngulo_19 {
+	position: absolute;
+	overflow: visible;
+	width: 116.19px;
+	height: 74.246px;
+	left: 6px;
+	top: 79.47px;
+}
+#Rectngulo_20 {
+	fill: rgba(76,160,57,1);
+}
+.Rectngulo_20 {
+	position: absolute;
+	overflow: visible;
+	width: 116.19px;
+	height: 79.47px;
+	left: 6px;
+	top: 0px;
+}
+#Grupo_89 {
+	position: absolute;
+	width: 105px;
+	height: 31px;
+	left: 10.957px;
+	top: 121.11px;
+	overflow: visible;
+}
+#emergencia {
+	left: 0px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 106px;
+	white-space: nowrap;
+	line-height: 31.257457733154297px;
+	margin-top: -2.6047887802124023px;
+	text-align: left;
+	font-family: BebasNeueBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 26.047880172729492px;
+	color: rgba(76,160,57,1);
+	letter-spacing: 0.19px;
+}
+#Grupo_90 {
+	position: absolute;
+	width: 50.515px;
+	height: 52.425px;
+	left: 52.14px;
+	top: 8.541px;
+	overflow: visible;
+}
+#Trazado_122 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_122 {
+	overflow: visible;
+	position: absolute;
+	width: 50.515px;
+	height: 43.49px;
+	left: 0px;
+	top: 8.936px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Elipse_18 {
+	fill: rgba(0,0,0,1);
+}
+.Elipse_18 {
+	position: absolute;
+	overflow: visible;
+	width: 7.9px;
+	height: 7.9px;
+	left: 14.756px;
+	top: 0px;
+}
+#Grupo_91 {
+	position: absolute;
+	width: 20.193px;
+	height: 20.222px;
+	left: 25.529px;
+	top: 43.91px;
+	overflow: visible;
+}
+#Lnea_2 {
+	fill: transparent;
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4.025720119476318px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Lnea_2 {
+	overflow: visible;
+	position: absolute;
+	width: 25.633px;
+	height: 25.634px;
+	left: 0.253px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_123 {
+	fill: rgba(0,0,0,0);
+	stroke: rgba(255,255,255,1);
+	stroke-width: 4.025720119476318px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 10;
+	shape-rendering: auto;
+}
+.Trazado_123 {
+	overflow: visible;
+	position: absolute;
+	width: 22.206px;
+	height: 22.205px;
+	left: 0px;
+	top: 2.042px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_124 {
+	fill: rgba(47,111,37,1);
+}
+.Trazado_124 {
+	overflow: visible;
+	position: absolute;
+	width: 60.174px;
+	height: 39.839px;
+	left: 62.016px;
+	top: 39.632px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#salida {
+	left: 11.891px;
+	top: 74.298px;
+	position: absolute;
+	overflow: visible;
+	width: 104px;
+	white-space: nowrap;
+	line-height: 56.37470626831055px;
+	margin-top: -4.697893142700195px;
+	text-align: left;
+	font-family: BebasNeueBook;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 46.978919982910156px;
+	color: rgba(76,160,57,1);
+	letter-spacing: 0.19px;
+}
+#Grupo_98 {
+	position: absolute;
+	width: 131.559px;
+	height: 58.098px;
+	left: 93.274px;
+	top: 809.5px;
+	overflow: visible;
+}
+#Rectngulo_21 {
+	opacity: 0.2;
+	fill: rgba(75,75,75,1);
+}
+.Rectngulo_21 {
+	position: absolute;
+	overflow: visible;
+	width: 128.434px;
+	height: 55.667px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_96 {
+	position: absolute;
+	width: 128.434px;
+	height: 56.599px;
+	left: 3.125px;
+	top: 1.5px;
+	overflow: visible;
+}
+#Grupo_94 {
+	position: absolute;
+	width: 128.434px;
+	height: 55.667px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#Rectngulo_22 {
+	fill: rgba(76,160,57,1);
+}
+.Rectngulo_22 {
+	width: 57.592px;
+	height: 55.667px;
+	position: absolute;
+	overflow: visible;
+	transform: translate(-66.275px, -201.066px) matrix(1,0,0,1,137.1173,201.0656) rotate(180deg);
+	transform-origin: center;
+}
+#Rectngulo_23 {
+	fill: rgba(0,0,0,1);
+}
+.Rectngulo_23 {
+	position: absolute;
+	overflow: visible;
+	width: 70.842px;
+	height: 55.667px;
+	left: 0px;
+	top: 0px;
+}
+#Grupo_95 {
+	position: absolute;
+	width: 56px;
+	height: 52.499px;
+	left: 9.251px;
+	top: 4.099px;
+	overflow: visible;
+}
+#evacuacin {
+	left: 1.244px;
+	top: 0px;
+	position: absolute;
+	overflow: visible;
+	width: 54px;
+	white-space: nowrap;
+	line-height: 16.973400115966797px;
+	margin-top: -1.4144501686096191px;
+	text-align: left;
+	font-family: BebasNeueBold;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 14.144499778747559px;
+	color: rgba(47,111,37,1);
+}
+#ruta {
+	left: 0px;
+	top: 10.499px;
+	position: absolute;
+	overflow: visible;
+	width: 57px;
+	white-space: nowrap;
+	line-height: 42.24825668334961px;
+	margin-top: -3.520689010620117px;
+	text-align: left;
+	font-family: BebasNeueBook;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 35.206878662109375px;
+	color: rgba(76,160,57,1);
+	letter-spacing: 0.19px;
+}
+#Trazado_125 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_125 {
+	overflow: visible;
+	position: absolute;
+	width: 31.144px;
+	height: 23.365px;
+	left: 92.745px;
+	top: 13.539px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_126 {
+	fill: rgba(192,220,188,1);
+}
+.Trazado_126 {
+	overflow: visible;
+	position: absolute;
+	width: 23.898px;
+	height: 10.373px;
+	left: 84.431px;
+	top: 23.937px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Grupo_97 {
+	position: absolute;
+	width: 23.222px;
+	height: 15.442px;
+	left: 92.887px;
+	top: 29.124px;
+	overflow: visible;
+}
+#Trazado_127 {
+	fill: rgba(192,220,188,1);
+}
+.Trazado_127 {
+	overflow: visible;
+	position: absolute;
+	width: 8.544px;
+	height: 7.781px;
+	left: 14.678px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Trazado_128 {
+	fill: rgba(227,239,224,1);
+}
+.Trazado_128 {
+	overflow: visible;
+	position: absolute;
+	width: 23.22px;
+	height: 14.678px;
+	left: 0px;
+	top: 0.764px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Rectngulo_24 {
+	position: absolute;
+	width: 271.079px;
+	height: 295.024px;
+	left: 411px;
+	top: 703.625px;
+	overflow: visible;
+}
+#Rectngulo_25 {
+	position: absolute;
+	width: 189.916px;
+	height: 206.692px;
+	left: 500.723px;
+	top: 624px;
+	overflow: visible;
+}
+#Rectngulo_26 {
+	position: absolute;
+	width: 172.796px;
+	height: 188.06px;
+	left: 595.681px;
+	top: 681.851px;
+	overflow: visible;
+}
+#Rectngulo_27 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_27 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 634.743px;
+	top: 880.714px;
+}
+#Con_este_servicio_podemos_plas {
+	left: 642.467px;
+	top: 921.411px;
+	position: absolute;
+	overflow: hidden;
+	width: 189px;
+	height: 101.66666412353516px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Trazado_129 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_129 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 627.931px;
+	top: 898.01px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#sublimacion__estampados {
+	left: 649.349px;
+	top: 895.674px;
+	position: absolute;
+	overflow: visible;
+	width: 181px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Rectngulo_28 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_28 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 964.361px;
+	top: 875.264px;
+}
+#Mostramos_tus_espacios_antes_d {
+	left: 972.084px;
+	top: 915.959px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 92px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Trazado_130 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_130 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 957.549px;
+	top: 892.559px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID3D_arquitectnico {
+	left: 1016.8px;
+	top: 890.223px;
+	position: absolute;
+	overflow: visible;
+	width: 126px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Rectngulo_29 {
+	position: absolute;
+	width: 242.6px;
+	height: 242.6px;
+	left: 909px;
+	top: 672px;
+	overflow: visible;
+}
+#Rectngulo_30 {
+	fill: rgba(247,190,0,1);
+}
+.Rectngulo_30 {
+	position: absolute;
+	overflow: visible;
+	width: 202px;
+	height: 137.042px;
+	left: 1239px;
+	top: 864.28px;
+}
+#Tus_fotografas_de_productos_de {
+	left: 1246.723px;
+	top: 904.976px;
+	position: absolute;
+	overflow: visible;
+	width: 189px;
+	height: 92px;
+	line-height: 13px;
+	margin-top: -0.5px;
+	text-align: left;
+	font-family: Helvetica-Condensed;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 12px;
+	color: rgba(0,0,0,1);
+}
+#Trazado_131 {
+	fill: rgba(0,0,0,1);
+}
+.Trazado_131 {
+	mix-blend-mode: multiply;
+	overflow: visible;
+	position: absolute;
+	width: 12.916px;
+	height: 14.914px;
+	left: 1433.854px;
+	top: 941.575px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#fOTOS_PUBLICITARIAS {
+	left: 1256.772px;
+	top: 879.24px;
+	position: absolute;
+	overflow: visible;
+	width: 135px;
+	white-space: nowrap;
+	line-height: 22.515060424804688px;
+	margin-top: -1.8762550354003906px;
+	text-align: left;
+	font-family: BuiltTitlingRg-Regular;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 18.762550354003906px;
+	color: rgba(0,0,0,1);
+	letter-spacing: 1px;
+}
+#Rectngulo_31 {
+	position: absolute;
+	width: 196.101px;
+	height: 159.43px;
+	left: 1291.925px;
+	top: 731px;
+	overflow: visible;
+}
+#Lnea_3_kd {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_3_kd {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 34.87px;
+	left: 1198.5px;
+	top: 112.63px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_4_ke {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_4_ke {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 34.87px;
+	left: 1462.5px;
+	top: 112.63px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Lnea_5_kf {
+	fill: transparent;
+	stroke: rgba(112,112,112,1);
+	stroke-width: 3px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Lnea_5_kf {
+	overflow: visible;
+	position: absolute;
+	width: 3px;
+	height: 34.87px;
+	left: 1638.5px;
+	top: 112.63px;
+	transform: matrix(1,0,0,1,0,0);
+}
